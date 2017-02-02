@@ -1,4 +1,4 @@
 pycharm 打开文件夹运行main.py即可
-main.py已经写好，不过运行钱还是要要有scrapy基础知识
+main.py已经写好，不过运行前还是要有scrapy基础知识
 根据极客学院视频自己纯手打
 侵权删
